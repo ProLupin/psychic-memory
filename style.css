@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(167, 112, 216);
+    font-family: 'Special Elite', cursive;
+    color: rgba(53, 58, 60);
+}
+.header_div{
+    background-color: rgb(53, 58, 60);
+    color: rgb(167, 112, 216);
+}
+.header_div p{
+    font-size: 12px;
+    color: 167, 112, 216;
+    font-family: 'Roboto', cursive;
+    letter-spacing: 2px;
+}
+button{
+    width:150px;
+    margin-top:50px;
+    letter-spacing: 3px;
+    font-weight: bold;
+    font-size: 15px
+}
+.footer_div{
+    position:fixed;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+    background-color: rgb(53, 58, 60);
+    color:rgb(167, 112, 216);;
+    bottom:0;
+}
